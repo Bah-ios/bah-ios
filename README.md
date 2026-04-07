@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🎓 Computer Science & Engineering Graduate
 💻 Passionate about Software Development & Cybersecurity
-🚀 Building impactful solutions like disaster response systems
+
 
 ---
 
@@ -76,10 +76,10 @@ Here are some ideas to get you started:
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
-* 🐦 Twitter/X: https://twitter.com/YOUR_HANDLE
+* 💼 LinkedIn: https://linkedin.com/in/bahran_solomon_tadesse
+* 🐦 Twitter/X: https://twitter.com/bahsolo493692
 * 🌍 Portfolio: https://yourportfolio.com
-* 📧 Email: [your@email.com](mailto:bahfeb69@gmail.com)
+* 📧 Email: [bahfeb69@email.com](mailto:bahfeb69@gmail.com)
 
 ---
 
