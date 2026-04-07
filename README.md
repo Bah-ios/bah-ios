@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![Your Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Your Stats](https://github-readme-stats.vercel.app/api?username=bah-ios\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bah-ios\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 * 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
 * 🐦 Twitter/X: https://twitter.com/YOUR_HANDLE
 * 🌍 Portfolio: https://yourportfolio.com
-* 📧 Email: [your@email.com](mailto:your@email.com)
+* 📧 Email: [your@email.com](mailto:bahfeb69@gmail.com)
 
 ---
 
@@ -91,6 +91,6 @@ Here are some ideas to get you started:
 
 ## 👀 Profile Views
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=bah-ios\&color=blue)
 
 ---
